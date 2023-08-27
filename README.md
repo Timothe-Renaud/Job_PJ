@@ -8,9 +8,9 @@ le type a perdu du temps pour une description qui ne vas jamais etre lue par per
 graph LR
 A[ Utilisateur retard ] -->B(VPS)
     B --> C(NGINX Reverse Proxy Manager)
-    C -->|One| D[SITE WEB 1 BOOKSTACK]
-    C -->|Two| E[SITE WEB 2 - portfolio alex]
-    C -->|Three| F[Site WEB 3 - portfolio Manon]
+    C -->|choix 1| D[SITE WEB 1 BOOKSTACK]
+    C -->|Choix 2| E[SITE WEB 2 - portfolio alex]
+    C -->|Choix 3| F[Site WEB 3 - portfolio Manon]
 ```
 
 ## TUTO INSTALLATION
