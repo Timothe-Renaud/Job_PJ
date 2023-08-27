@@ -8,9 +8,11 @@ le type a perdu du temps pour une description qui ne vas jamais etre lue par per
 - avoir allumer l'ordi
 - etre connecter a internet
 
+## Installation Complete
+- chmod +x script.sh
+- ./script.sh
+
 
 
 ## pour lancer le container nginx_proxy_manager
 sudo docker-compose -f nginx_proxy_manager?.yml -p nginx up -d
-
-## pour lancer ....
